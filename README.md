@@ -11,7 +11,7 @@ Estuvimos debatiendo entre dos temas de los cuales podía tratar nuestro proyect
 -La forma en la que el boton "Especies" muestra de forma variada la información a través de otros botones.
 
 ¿Cuáles eran nuestras ideas principales?
-En un principio teníamos planeado hacer cuatro historias de usuario con 4 botones; episodios, especies, locaciones y personajes, pero por las dificultades que se nos presentaron, tuvimos que quitar el boton "Episodios"
+En un principio teníamos planeado hacer cuatro historias de usuario con 4 botones; episodios, especies, locaciones y personajes, pero por las dificultades que se nos presentaron, tuvimos que descartar el boton "Episodios"
 
 ¿Que nos pareció este proyecto?
 Fue algo nuevo ya que era la primera vez que utilizabamos solo un html, pero también fue interesante y a la vez complicado, un poco frustrante quizá , ya que habían cosas que no nos salía o que se malograban a última hora,pero nos enseño cosas nuevas y ese fue el reto
