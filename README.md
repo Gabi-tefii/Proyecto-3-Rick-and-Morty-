@@ -16,4 +16,4 @@ En un principio teníamos planeado hacer cuatro historias de usuario con 4 boton
 ¿Que nos pareció este proyecto?
 Fue algo nuevo ya que era la primera vez que utilizabamos solo un html, pero también fue interesante y a la vez complicado, un poco frustrante quizá , ya que habían cosas que no nos salía o que se malograban a última hora,pero nos enseño cosas nuevas y ese fue el reto
 
-Consideramos que nuestra página web cumple con la finalidad de que los fanáticos de dicha serie puedan encontar información de sus personajes favoritos.
+Consideramos que nuestra página web cumple con la finalidad de brindar a los fanáticos de dicha serie información acerca de sus personajes favoritos.
